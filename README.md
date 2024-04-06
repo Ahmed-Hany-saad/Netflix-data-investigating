@@ -33,6 +33,4 @@ Your friend suspects that movies are getting shorter and they've found some init
   <li>Initialize a matplotlib figure object called fig and create a scatter plot for movie duration by release year using the colors list to color the points and using the labels "Release year" for the x-axis, "Duration (min)" for the y-axis, and the title "Movie Duration by Year of Release".</li>
   <li>After inspecting the plot, answer the question "Are we certain that movies are getting shorter?" by assigning either "yes" or "no" to the variable answer.</li>
 </ol>
-![Project Image](Movie Duration by Year of Release.png)
-
-![Movie Duration by Year of Release](Movie Duration by Year of Release.png)
+<img src="Movie Duration by Year of Release.png" alt="Project Image">
