@@ -15,6 +15,8 @@ You have been supplied with the dataset `netflix_data.csv` , along with the foll
 | `title` | Title of the show |
 | `director` | Director of the show |
 | `cast` | Cast of the show |
+
+Your friend suspects that movies are getting shorter and they've found some initial evidence of this. Having peaked your interest, you will perform exploratory data analysis on the netflix_data.csv data to understand what may be contributing to movies getting shorter over time. 
 | `country` | Country of origin |
 | `date_added` | Date added to Netflix |
 | `release_year` | Year of Netflix release |
